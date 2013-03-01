@@ -49,6 +49,7 @@ table.clients
     :markdown
       * [stompest](https://github.com/nikipore/stompest)
 
+:markdown
   # STOMP 1.1 Servers
 
   The following is a list of the various STOMP 1.1 compliant message 
